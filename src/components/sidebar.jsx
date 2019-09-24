@@ -37,9 +37,11 @@ export default class Sidebar extends Component {
               <p><small>
                   Thanks Dhruv Barochiya for helping me get into react
               </small></p>
-              <p><small>
-                {/*<Something coming soon !!*/}	
-              </small></p>
+                {/*<Something coming soon !!*/}
+				<div>
+				  <p><small>Icons made by <a href="https://www.flaticon.com/authors/lucy-g" title="Lucy G">Lucy G</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+				  </small></p>
+			  </div>
             </div>
           </aside>
         </div>
